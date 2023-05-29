@@ -1,0 +1,13 @@
+.icon1 {
+  background-image: url(path/to/sprite-sheet.png);
+  width: 24px;
+  height: 24px;
+  background-position: 0 0; /* Adjust the position to match the first icon in the sheet */
+}
+
+.icon2 {
+  background-image: url(path/to/sprite-sheet.png);
+  width: 24px;
+  height: 24px;
+  background-position: -24px 0; /* Adjust the position to match the second icon in the sheet */
+}
